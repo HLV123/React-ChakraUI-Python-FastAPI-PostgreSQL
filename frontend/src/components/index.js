@@ -1,0 +1,13 @@
+export { default as Header } from './Header';
+export { default as Hero } from './Hero';
+export { default as StatsBar } from './StatsBar';
+export { default as MovieCard } from './MovieCard';
+export { default as MoviesSection } from './MoviesSection';
+export { default as CinemasSection } from './CinemasSection';
+export { default as SeatSelection } from './SeatSelection';
+export { default as BookingSection } from './BookingSection';
+export { default as PromosSection } from './PromosSection';
+export { default as MembershipSection } from './MembershipSection';
+export { default as FnBSection } from './FnBSection';
+export { default as Footer } from './Footer';
+export { default as AuthModal } from './AuthModal';
